@@ -1,0 +1,122 @@
+{
+  "version": 2,
+  "template_version": "d39ce472eeb3cc3f10e7",
+  "page_size": 20,
+  "site_id": "6624ab9a17422e6aa6acaf1b",
+  "owner": "ysydkjm",
+  "repo": "page-99219cf7bdb5d12c8731fc02",
+  "title": "speedtv",
+  "mode": "repo",
+  "articles": [
+    {
+      "id": "99219cf7bdb5d12c8731fc02",
+      "a": "speedtv",
+      "b": "2027官方最新地址导航",
+      "entity": "speedtv",
+      "brand": "speedtv",
+      "separator": "|",
+      "path": "index.html",
+      "hash": "fe6d7bbc63a0d1b4120c19f1931e44471fbf9c8b4807893f6cabae00207645b6",
+      "content": {
+        "primary_entity": "speedtv",
+        "keyword1": "speedtv",
+        "keyword2": "2027官方最新地址导航",
+        "content": {
+          "AI_DESCRIPTION": "，speedtv 面向需要稳定连接海外网络的用户，提供基础版、旗舰版和团队版三档套餐。基础版每月 100GB 流量，适合 3 台设备轻量使用；旗舰版每月 300GB 流量并支持 5 台设备，覆盖流媒体和游戏加速场景；团队版每月 1000GB 流量，满足 20 台设备的多端协同。按年付可享更优价格，选择时重点考虑日常流量和设备数量。",
+          "AI_HERO_SUBTITLE": "多档套餐适配不同设备规模",
+          "AI_HERO_INTRO": "speedtv 提供基础版、旗舰版和团队版三档海外加速套餐，流量从 100GB 到 1000GB，设备数从 3 台到 20 台，覆盖个人观影、游戏加速和团队协作等场景，按年付费更划算。",
+          "AI_VISUAL_TITLE": "按需求选 speedtv 套餐",
+          "AI_HIGHLIGHT_1": "三档套餐覆盖多设备需求",
+          "AI_HIGHLIGHT_2": "年付价格更优，流量更充足",
+          "AI_HIGHLIGHT_3": "客户端文档助力快速配置",
+          "AI_FEATURES_TITLE": "套餐选择要点",
+          "AI_FEATURES_INTRO": "根据日常流量和设备数量判断适合的档位，按年付可降低月均成本。",
+          "AI_FEATURE_TITLE_1": "流量与设备匹配",
+          "AI_FEATURE_TEXT_1": "基础版 100GB/3 台，旗舰版 300GB/5 台，团队版 1000GB/20 台，按实际用量选择。",
+          "AI_FEATURE_TITLE_2": "订阅周期建议",
+          "AI_FEATURE_TEXT_2": "月付灵活试用，年付折算更省，长期使用优先考虑年付方案。",
+          "AI_FEATURE_TITLE_3": "客户端适配",
+          "AI_FEATURE_TEXT_3": "各平台客户端安装后导入订阅即可使用，具体步骤参考客户端文档。",
+          "AI_PLANS_TITLE": "套餐对比",
+          "AI_PLANS_INTRO": "基础版适合 3 台设备轻度使用，旗舰版面向流媒体和游戏场景，团队版满足 20 台设备的高流量需求。",
+          "AI_GUIDE_TITLE": "使用步骤",
+          "AI_GUIDE_INTRO": "从选择服务到完成配置，三步即可开始使用。",
+          "AI_STEP_TITLE_1": "选择服务",
+          "AI_STEP_TEXT_1": "根据设备数量和每月流量需求，在基础版、旗舰版和团队版中选定套餐。",
+          "AI_STEP_TITLE_2": "查看适配要求",
+          "AI_STEP_TEXT_2": "确认常用设备的系统版本和客户端类型，核对套餐支持的在线设备数。",
+          "AI_STEP_TITLE_3": "配置订阅",
+          "AI_STEP_TEXT_3": "在客户端中导入订阅信息，按照客户端文档完成节点选择和连接设置。",
+          "AI_CLIENTS_TITLE": "客户端选择",
+          "AI_CLIENTS_INTRO": "按设备系统选择对应客户端，导入订阅后即可使用。",
+          "AI_CLOSING_TITLE": "选对套餐，连接更顺畅",
+          "AI_CLOSING_TEXT": "根据设备数量和流量需求选择合适的 speedtv 套餐，按年付更划算。",
+          "AI_FAQ_INTRO": "订阅导入、设备限制与付费周期。",
+          "AI_FAQ_ANSWER_1": "按照月流量需求来选：每月约 100GB 选基础版，300GB 左右推荐旗舰版，1000GB 且设备众多则考虑团队版。",
+          "AI_FAQ_ANSWER_2": "可以。基础版支持 3 台，旗舰版支持 5 台，团队版最高支持 20 台设备同时在线。",
+          "AI_FAQ_ANSWER_3": "客户端连接后会自动拉取订阅节点，无需手动逐条添加。更换设备时重新导入订阅链接即可。",
+          "AI_FAQ_ANSWER_4": "有。按年付基础版为 150 元，旗舰版为 350 元，团队版为 850 元，比按月支付更划算。",
+          "AI_FAQ_ANSWER_5": "旗舰版使用 IPLC 专线并针对游戏加速优化，延迟表现通常优于基础版的普通线路节点池。",
+          "AI_FAQ_QUESTION_1": "怎么根据自己的流量需求选套餐？",
+          "AI_FAQ_QUESTION_2": "一个订阅可以同时在多台设备上使用吗？",
+          "AI_FAQ_QUESTION_3": "换设备后需要重新配置节点吗？",
+          "AI_FAQ_QUESTION_4": "按年付和按月付有什么区别？",
+          "AI_FAQ_QUESTION_5": "团队版和旗舰版在游戏加速上有什么不同？",
+          "AI_FAQ_TITLE": "常见问题解答"
+        },
+        "plans": [
+          {
+            "name": "基础版",
+            "price": "¥15/月",
+            "annual_price": "按年付仅需 ¥150/年",
+            "features": [
+              "每月 100GB 极速流量",
+              "支持 3 台设备同时在线",
+              "解锁基础流媒体",
+              "普通线路节点池"
+            ]
+          },
+          {
+            "name": "旗舰版",
+            "price": "¥35/月",
+            "annual_price": "按年付仅需 ¥350/年",
+            "featured": true,
+            "features": [
+              "每月 300GB 极速流量",
+              "支持 5 台设备同时在线",
+              "全节点原生流媒体解锁",
+              "IPLC 专线游戏加速优化",
+              "7x24 优先工单支持"
+            ]
+          },
+          {
+            "name": "团队版",
+            "price": "¥85/月",
+            "annual_price": "按年付仅需 ¥850/年",
+            "features": [
+              "每月 1000GB 极速流量",
+              "支持 20 台设备同时在线",
+              "VIP 专属高带宽节点",
+              "支持企业定制路由",
+              "专属客户经理服务"
+            ]
+          }
+        ],
+        "clients": []
+      }
+    }
+  ],
+  "domain": {
+    "apex": "phiienf.cn",
+    "host": "phiienf.cn"
+  },
+  "file_hashes": {
+    "index.html": "4ea2c7f4c75247da1a375af6bdc081a1e93d5fdd8b344c35db4c5b54787db85c",
+    "sitemap.xml": "3c7c2fba5cee6587b1f7f29f1511f0d08632c7ca3af43fe8eaf1fbd852cd4739",
+    ".nojekyll": "12ae32cb1ec02d01eda3581b127c1fee3b0dc53572ed6baf239721a03d82e126",
+    "CNAME": "8154ac4f4f2079d21fb60c150362063eb72c71075fbeb62b539bde12b734442e",
+    "robots.txt": "9789030b0dc5a99b20baefec1a77552cfaad4db23f68d56575948b4257ee2ef9",
+    "db4fb024781ddb0b465c6222d74fb639.txt": "34c9695b9a87c321013c605f21f89600a2c8e8aa9e6b470b1e287450db33b8cf"
+  },
+  "revision": "aac3a8400f00b3e28a0e977addb3303088d4584fabf2975a1dcf38eec12906f6"
+}
